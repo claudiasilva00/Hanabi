@@ -1,0 +1,260 @@
+﻿  Hanabi Lab.c
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(85,23): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(145,8): warning C4101: 'n': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(186,17): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(205,4): warning C4013: 'getch' indefinido; assumindo extern retornando int
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(237,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(260,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(290,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(269,8): warning C4101: 'k': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(301,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(324,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(337,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(385,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(335,7): warning C4101: 'table': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(404,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(402,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(411,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(422,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(420,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(431,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(429,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(438,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(447,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(456,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(465,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(525,16): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(512,14): warning C4101: 'p': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(91,14): warning C4477: 'fscanf': a cadeia de formato '%i' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'char *'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(91,14): message : considere usar '%hhi' na cadeia de formato
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(119,8): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(130,6): warning C4101: 'a': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(153,21): warning C4013: 'putch' indefinido; assumindo extern retornando int
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(879,8): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1243,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1259,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1275,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1291,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1308,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+  hanabi_controller.c
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(85,23): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(145,8): warning C4101: 'n': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(186,17): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(205,4): warning C4013: 'getch' indefinido; assumindo extern retornando int
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(237,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(260,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(290,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(269,8): warning C4101: 'k': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(301,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(324,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(337,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(385,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(335,7): warning C4101: 'table': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(404,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(402,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(411,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(422,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(420,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(431,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(429,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(438,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(447,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(456,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(465,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(525,16): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(512,14): warning C4101: 'p': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(91,14): warning C4477: 'fscanf': a cadeia de formato '%i' requer um argumento do tipo 'int *', mas um argumento variadic 1 tem o tipo 'char *'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(91,14): message : considere usar '%hhi' na cadeia de formato
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(119,8): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(130,6): warning C4101: 'a': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(153,21): warning C4013: 'putch' indefinido; assumindo extern retornando int
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(879,8): warning C4244: 'função': conversão de 'time_t' para 'unsigned int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1243,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1259,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1275,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1291,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(1308,7): warning C4550: expressão é avaliada como uma função cuja lista de argumentos está faltando
+  hanabi_view.c
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(85,23): warning C4244: 'inicializando': conversão de 'float' para 'int', possível perda de dados
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(145,8): warning C4101: 'n': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(186,17): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(205,4): warning C4013: 'getch' indefinido; assumindo extern retornando int
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(237,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(260,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(290,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(269,8): warning C4101: 'k': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(301,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(324,12): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(337,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(385,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(335,7): warning C4101: 'table': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(404,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(402,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(411,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(422,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(420,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(431,11): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(429,6): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(438,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(447,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(456,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(465,5): warning C4101: 'i': variável local não referenciada
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(525,16): warning C4305: 'função': truncamento de 'double' para 'float'
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_view.c(512,14): warning C4101: 'p': variável local não referenciada
+  Gerando Código...
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(837): warning C4716: 'selc_action': deve retornar um valor
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(881): warning C4716: 'starter_def': deve retornar um valor
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(837): warning C4716: 'selc_action': deve retornar um valor
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\Hanabi\hanabi_controller.c(881): warning C4716: 'starter_def': deve retornar um valor
+hanabi_controller.obj : error LNK2005: Keys_menu já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: bot_descarte já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: bot_gameplay já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: bot_play já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: bot_play_descarte já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: bot_play_full_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: bot_tips já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: clear_msgbox já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: deal já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: deck_reset já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: decksize já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: delay já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: delay_control já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: delay_settings já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: descarte já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: end já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: game_repeater já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: game_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: gameload já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: gamesave já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: gotoxy já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: hand_filler já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: intro_control já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: intructionsheader já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: leave1 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: lernome já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: lernome_view já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: load1 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: mensagem_selec já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: mensagens já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: menu1 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: menu_all já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: menu_control já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: msg_box já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: msg_inicial já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: pilha_cheia já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: play já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: play1 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: print_deck já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: print_gametable já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: print_hands já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: printfAt já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: resetColor já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: rules1 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: selc_action já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: setBackColor já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: setColor já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: setForeColor já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: settings já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: show90RectAt já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: showCharAt já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: showRectAt já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: showVerticalWordAt já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: shuffle_deck já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: starter_def já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: starter_view já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: tips_color já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: tips_number já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: titulo já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewacoes já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewdeck já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewdiscarded já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewinstructions já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewintro já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewlives já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewplayer1h já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewplayer1h_info já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewplayer2h já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewpoints já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewtable já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: viewtips já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: deck_char já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: deck já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: discarded_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: player_1 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: player_2 já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: player_1_info já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: player_2_info já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: r_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: g_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: b_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: y_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: w_table já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: lives já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: tips já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: menu já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: NO_DELAY já definida no Hanabi Lab.obj
+hanabi_controller.obj : error LNK2005: disc_n já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: clear_msgbox já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: decksize já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: delay já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: delay_settings já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: end já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: game_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: gotoxy já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: intructionsheader já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: leave1 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: lernome_view já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: load1 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: mensagem_selec já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: mensagens já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: menu1 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: menu_all já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: msg_box já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: msg_inicial já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: play1 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: print_deck já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: print_gametable já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: print_hands já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: printfAt já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: resetColor já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: rules1 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: setBackColor já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: setColor já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: setForeColor já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: settings já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: show90RectAt já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: showCharAt já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: showRectAt já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: showVerticalWordAt já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: starter_view já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: titulo já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewacoes já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewdeck já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewdiscarded já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewinstructions já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewintro já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewlives já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewplayer1h já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewplayer1h_info já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewplayer2h já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewpoints já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewtable já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: viewtips já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: deck_char já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: deck já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: discarded_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: player_1 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: player_2 já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: player_1_info já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: player_2_info já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: r_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: g_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: b_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: y_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: w_table já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: lives já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: tips já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: menu já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: NO_DELAY já definida no Hanabi Lab.obj
+hanabi_view.obj : error LNK2005: disc_n já definida no Hanabi Lab.obj
+C:\Users\Cláudia\Desktop\Hanabi-master\Hanabi-master\x64\Debug\Hanabi.exe : fatal error LNK1169: encontrados um ou mais símbolos múltiplos definidos

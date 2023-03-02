@@ -1,0 +1,102 @@
+O tema do jogo corresponde a montar corretamente um espetaculo de fogo-de-artificio.
+
+Composicao
+
+
+Baralho de 50 cartas (fireworks cards), 10 de cada uma das 5 cores azul (blue), verde (green), vermelho (red), branco (white) e amarelo (yellow).
+Em cada conjunto de uma cor existem as seguintes cartas, tres numeros 1, dois numeros 2, dois numeros 3, dois numeros 4 e apenas um numero 5.
+Existem ainda 8 fichas de pistas (note tokens) e 3 fichas de vida (storm tokens).
+
+Objetivo
+
+Conseguir jogar 25 cartas na mesa formando 5 montes, um de cada cor, com as cartas por ordem de numeracao. Isto e, no final, idealmente, havera um monte de cartas para cada uma das cincos cores com os numeros 1, 2, 3, 4 e 5, jogados por esta ordem, estando o 5 no topo.
+
+Preparacao do jogo
+
+Podem jogar de 2 a 5 jogadores. Baralham-se todas as 50 cartas e distribuem-se as cartas a
+cada jogador (player hand); 5 cartas para 2 ou 3 jogadores ou 4 cartas para 4 ou 5
+jogadores. Os jogadores devem segurar as suas cartas com as costas viradas para si de
+forma a nao verem as suas proprias cartas. Desta forma nao sabem quais sao as suas
+cartas mas, em contrapartida sabem quais as cartas que os restantes jogadores tem.
+As restantes cartas formam o baralho de compra (draw deck).
+Ao alcance dos jogadores colocam-se as 8 fichas de pistas, sendo a face com o desenho de
+um pergaminho colocada para cima, representado a possibilidade de a pista ser usada. De
+igual modo as 3 fichas de vida sao colocadas com a face com o desenho de um raio virada
+para baixo. No meio da mesa deve-se reservar algum espaco para se jogarem os cinco
+montes de cartas, bem como uma zona para as cartas descartadas.
+O desafio e trocarem informacoes (pistas) para conseguirem jogar as cartas por ordem e,
+em conjunto, atingirem o objetivo do jogo.
+4
+
+Desenrolar do Jogo
+
+
+Depois de se escolher um primeiro jogador (o jogador mais velho), cada jogador joga a vez,
+pelo sentido dos ponteiros do relogio.
+E absolutamente proibido (embora para uma primeira vez a jogar seja fundamental
+quebrar algumas dessas regras para aprender melhor o jogo) que os jogadores falem ou
+comuniquem de qualquer outra forma (reacoes faciais, olhares, etc.) para alem da altura
+em que dao as pistas uns aos outros e respeitando as regras das mesmas.
+Na sua vez de jogar um jogador deve fazer uma e so uma das seguintes acoes:
+1. Dar uma pista
+2. Descartar uma carta
+3. Jogar uma carta
+
+1. Dar uma pista
+So podera usar esta acao se existirem fichas de pista disponiveis, ou seja com o desenho do
+papiro voltado para cima.
+Primeiro vira-se uma ficha de pista nao usada ficando a face escura para cima, e de seguida
+escolhe-se um qualquer jogador para dar a pista. As unicas pistas que se podem dar sao
+relativas ou a cor ou ao numero das cartas desse jogador. As pistas permitidas sao indicar
+a posicao de:
+_ todas as cartas de uma cor ou
+_ todas as cartas de um numero.
+Nunca se pode indicar simultaneamente a cor e o numero de qualquer carta. Exemplo de
+pistas possiveis:
+- "Tens um 5 aqui" (Se existirem apenas um 5)
+- "Tens um 1 aqui, aqui e ali" (Se existirem exatamente tres cartas 1)
+- "Nao tens cartas 2" (Se o jogador nao tiver cartas 2)
+- "Tens uma carta azul aqui" (Se existirem apenas uma carta da cor azul)
+- "Tens uma carta amarela aqui e ali" (Se existirem exatamente 2 cartas amarelas)
+- "Nao tens cartas verdes" (Se o jogador nao tiver cartas nenhuma carta verde)
+5
+
+2. Descartar uma carta
+Esta acao adiciona-se uma pista as existentes virando uma das que foram usadas (com a
+face escura para cima). Esta acao nao pode ser usada caso estejam disponiveis todas as
+pistas.
+O jogador anuncia que vai DESCARTAR uma carta e escolhe uma das suas cartas (sem
+nunca olhar para a frente das cartas da sua mao) e coloca-a no monte de cartas
+descartadas. As cartas do monte de descarte podem ser consultadas em qualquer altura
+por qualquer jogador.
+
+3. Jogar (para a mesa) uma carta
+E ao jogar cartas para a mesa que se constroi o fogo-de-artificio. O jogador anuncia que vai
+JOGAR uma carta e escolhe a carta para jogar na mesa. Ocorre uma das duas situacoes
+seguintes:
+- A carta PODE ser jogada corretamente na mesa, iniciando um fogo-de-artificio ou
+continuando um ja existente. Ou seja, a carta inicia uma cor (e uma carta 1) ou e
+sequencial em relacao a sua cor (por exemplo e um 3 verde e na mesa ja existe um 2
+verde).
+Caso a carta jogada seja um 5, completando uma cor, ganha-se uma pista. Se as 8 pistas
+ja estiverem disponiveis esta benesse perde-se.
+- A carta pode NAO PODE ser jogada corretamente na mesa. Ou seja, nao e sequencial
+no monte da sua cor. Por exemplo jogar um 1 verde, e na mesa ja existir um 1 no monte
+das cartas verdes, ou jogar um 4 azul e no monte azul nao estar um 3 azul. Neste caso os
+deuses ficam furiosos e enviam um raio vindo do ceu, resultando na perda de uma vida.
+Volta-se uma ficha de vida ao contrario exibindo agora um raio. As vidas nao sao
+recuperaveis.
+Depois de jogar o jogador completa a sua mao para 5 (ou 4) cartas retirando uma nova
+carta do monte de compra (se houver cartas disponiveis no baralho de compra), mas
+sem olhar para a frente da carta!
+
+Fim do Jogo
+O jogo termina se:
+- todos os montes de cor forem terminados. O espetaculo terminou e a pontuacao e de 25
+pontos.
+- a ultima carta do baralho de compra for removida, nesse caso todos os jogadores jogam
+uma ultima vez. A pontuacao final corresponde ao total de cartas que conseguiram jogar
+na mesa.
+6
+- a terceira ficha de vida for virada. O jogo termina e a pontuacao e de 0 pontos. Os deuses
+demonstram a sua ira na forma de uma tempestade que poe fim ao fogo-de-artificio.
